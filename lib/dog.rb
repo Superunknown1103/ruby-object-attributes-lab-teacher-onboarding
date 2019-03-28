@@ -1,6 +1,9 @@
 class Dog
-  def self.name
+  def name = (dogs_name)
     # Instance variables
-    @name = name
+    @name = dogs_name
+  end
+
+  def #name
   end
 end
