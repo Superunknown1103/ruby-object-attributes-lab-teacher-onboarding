@@ -17,3 +17,6 @@ class Dog
   end
 
 end
+
+snoopy = Dog.new
+snoopy.breed
