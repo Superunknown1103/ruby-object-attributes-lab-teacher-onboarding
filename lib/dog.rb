@@ -4,7 +4,7 @@ class Dog
       @name = dogs_name
   end
 
-  def self.name
+  def name
     @name
   end
 
