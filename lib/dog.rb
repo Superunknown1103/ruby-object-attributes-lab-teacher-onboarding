@@ -17,5 +17,3 @@ class Dog
   end
 
 end
-
-Dog.breed
