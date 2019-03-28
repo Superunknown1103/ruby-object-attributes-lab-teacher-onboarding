@@ -1,5 +1,5 @@
 class Dog
-  def name = (dogs_name)
+  def name(dogs_name)
     # Instance variable
       @name = dogs_name
   end
@@ -8,7 +8,7 @@ class Dog
     @name
   end
 
-  def breed = (breed)
+  def breed(breed)
     @breed = breed
   end
 
